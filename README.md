@@ -1,6 +1,6 @@
 # Pokédex - Your guide to the world of Pokémon
 
-![](./images/pokemon.png)
+![Image](./images/pokemon.png)
 
 ![](./images/yt.png)(https://www.youtube.com/watch?v=ferXnJM0GI8)
 ## Table of Contents
