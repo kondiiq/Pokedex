@@ -10,7 +10,7 @@
 * [Architecture](#architecture)
 * [Technologies](#technologies)	
 * [ERP SAP S/4 Hana](#ERP-SAP-S/4-Hana)	
-* [SAPUI5/OpenUI5](#SAPUI5/OpenUI5)	
+* [SAPUI5](#SAPUI5)	
 * [SAP Fiori](#sap-Fiori)	
 * [CAP](#cap)	
 * [I18n](#i18n)
@@ -55,7 +55,7 @@ Scope
 
 Belongs to the family of ERP systems, Hana is the newest SAP product. Released in 2015, it enables the use of the cloud and other operation of ERP systems such as planning and management human resources, processing large amounts of information etc. This solution is very future-oriented due to the date of withdrawal of support for older SAP systems in 2027. SAP provides its proprietary ultra-eficient database, which has proven itself in, among others, NBA, PKP, Harvard University etc.
 
-### ![](./images/sapui5.png) SAPUI5/OpenUI5
+### ![](./images/sapui5.png) SAPUI5
 
 This frameworks helps design UI (User - interface). SAPUI5 based on design pattern MVC (Model-View-Controller) model. SAPUI5 uses JavaScript in ES6 version, XML (Extensible Markup Language) and HTML (HyperText Markup Language). Important layer of this framework is API Reference with ready to use components as carousel, tables, triggers, buttons etc. 
  
