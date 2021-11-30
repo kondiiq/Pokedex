@@ -107,7 +107,7 @@ JavaScript server-side version. Part of OpenJS Foundation. Nodejs packet manager
 |createdBy	|String with 100 chars limit	|Describe when record was modified in format DD-MM-YYYY
 
 
-Every Pokemon is described by attributes from Table 1. To create a new Pokemon user need to describe pokemon by this attributes.   
+Every Pokemon is described by attributes from upper table To create a new Pokemon user need to describe pokemon by this attributes.   
 
 ### I18n 
 
