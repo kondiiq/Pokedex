@@ -40,10 +40,15 @@ Scope
 	- Modify database records 
 	
 ## Pre-configuration
-		
-	-npm install
-	-npm install sqlite3 - D
-	
+ To run this project, install it locally using npm:
+
+```
+ $ cd project/
+ $ npm install
+ $ npm install sqlite3
+ $ npm start
+```
+
 ## Technologies
 
  ### ERP SAP S/4 Hana
