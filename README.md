@@ -8,11 +8,11 @@
 * [Architecture](#architecture)
 * [Technologies](#technologies)	
 * [ERP SAP S/4 Hana](#ERP-SAP-S/4-Hana)	
-* [SAPUI5/OpenUI5](#sapui5)	
-* [SAP Fiori](#sap-fiori)	
-* [Cloud Application Programming model (CAP)](#Cloud-Application-Programming-model-(CAP))	
+* [SAPUI5/OpenUI5](#SAPUI5/OpenUI5)	
+* [SAP Fiori](#Sap-Fiori)	
+* [Cloud Application Programming model](#cloud-application-programming-model)	
 * [I18n](#i18n)
-* [Index](#index)	
+
 
 ## Quick introduction
 
