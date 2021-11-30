@@ -50,7 +50,7 @@ Scope
 ```
 
 ## Technologies
-
+![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg | width="20" height="20")
  ### ERP SAP S/4 Hana
 
 Belongs to the family of ERP systems, Hana is the newest SAP product. Released in 2015, it enables the use of the cloud and other operation of ERP systems such as planning and management human resources, processing large amounts of information etc. This solution is very future-oriented due to the date of withdrawal of support for older SAP systems in 2027. SAP provides its proprietary ultra-eficient database, which has proven itself in, among others, NBA, PKP, Harvard University etc.
