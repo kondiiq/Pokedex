@@ -1,18 +1,18 @@
 # Pokédex - Your guide to the world of Pokémon
 
-(./images/pokemon.png)
+![](./images/pokemon.png)
 
 ## Table of Contents
 
 * [Quick introduction](#quick-introduction)	
 * [Scope](#scope)	
-* [Our application will base on views such as](#Our-application-will-base-on-views-such-as)
+* [Setup](#setup)
 * [Architecture](#architecture)
 * [Technologies](#technologies)	
 * [ERP SAP S/4 Hana](#ERP-SAP-S/4-Hana)	
 * [SAPUI5/OpenUI5](#SAPUI5/OpenUI5)	
-* [SAP Fiori](#Sap-Fiori)	
-* [Cloud Application Programming model](#cloud-application-programming-model)	
+* [SAP Fiori](#sap-Fiori)	
+* [CAP](#cap)	
 * [I18n](#i18n)
 
 
@@ -38,9 +38,19 @@ Scope
 	- Changing images of Pokémon’s
 	- Manipulating Pokémon’s statistics
 	- Modify database records 
+	
+## Setup
+ To run this project, install it locally using npm:
+
+```
+ $ cd Projects
+ $ npm install
+ $ npm install sqlite3
+ $ npm start
+```
 
 ## Technologies
-
+![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)
  ### ERP SAP S/4 Hana
 
 Belongs to the family of ERP systems, Hana is the newest SAP product. Released in 2015, it enables the use of the cloud and other operation of ERP systems such as planning and management human resources, processing large amounts of information etc. This solution is very future-oriented due to the date of withdrawal of support for older SAP systems in 2027. SAP provides its proprietary ultra-eficient database, which has proven itself in, among others, NBA, PKP, Harvard University etc.
@@ -76,27 +86,28 @@ JavaScript server-side version. Part of OpenJS Foundation. Nodejs packet manager
 
 ### SQLite3
 
-Attribute	Type	Description
-Name	String with 50 chars limit	Name of Pokémon
-ID	Integer	Pokémon number
-Type1	String with 50 chars limit	First type of Pokémon e.g. Electric
-Type2	String with 50 chars limit	Second type of Pokémon e.g. Grass
-Attack	Integer	Pokémon attack
-Defense	Integer	Pokémon defense
-Generation	Integer	Pokémon generation
-HP	Integer	Health point of Pokémon
-Legendary	Boolean	If Pokémon is Legendary value is True else value is False
-Speed	Integer	Pokémon speed attribute
-SpAttack	Integer	Attack speed of Pokémon
-SpDefense	Integer	Defense speed of Pokémon
-Total	Integer	Total points
-modifiedAt	String with 100 chars limit	Describe when record was modified in format DD-MM-YYYY
-modifiedBy	String with 100 chars limit	Describe when record was modified in format DD-MM-YYYY
-createdAt	String with 100 chars limit	Describe when record was modified in format DD-MM-YYYY
-createdBy	String with 100 chars limit	Describe when record was modified in format DD-MM-YYYY
+|Attribute	|Type				|Description
+| --------------|-------------------------------|----------------------------------------------------------------|
+|Name		|`String with 50 chars limit`	|Name of Pokémon
+|ID		|`Integer`			|Pokémon number
+|Type1		|`String with 50 chars limit`	|First type of Pokémon e.g. Electric
+|Type2		|`String with 50 chars limit`	|Second type of Pokémon e.g. Grass
+|Attack		|`Integer`			|	Pokémon attack
+|Defense	|`Integer`			|	Pokémon defense
+|Generation	|`Integer`			|	Pokémon generation
+|HP		|`Integer`			|	Health point of Pokémon
+|Legendary	|`Boolean`			|	If Pokémon is Legendary value is True else value is False
+|Speed		|`Integer`			|	Pokémon speed attribute
+|SpAttack	|`Integer`			|	Attack speed of Pokémon
+|SpDefense	|`Integer`			|	Defense speed of Pokémon
+|Total		|`Integer`			|	Total points
+|modifiedAt	|`String with 100 chars limit`	|Describe when record was modified in format DD-MM-YYYY
+|modifiedBy	|`String with 100 chars limit`	|Describe when record was modified in format DD-MM-YYYY
+|createdAt	|`String with 100 chars limit`	|Describe when record was modified in format DD-MM-YYYY
+|createdBy	|`String with 100 chars limit`	|Describe when record was modified in format DD-MM-YYYY
 
 
-Every Pokemon is described by attributes from Table 1. To create a new Pokemon user need to describe pokemon by this attributes.   
+Every Pokemon is described by attributes from upper table To create a new Pokemon user need to describe pokemon by this attributes.   
 
 ### I18n 
 
