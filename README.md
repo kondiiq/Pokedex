@@ -1,6 +1,6 @@
 # Pokédex - Your guide to the world of Pokémon
 
-(/images/pokemon.png)
+![](./images/pokemon.png)
 
 ## Table of Contents
 
