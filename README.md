@@ -86,25 +86,25 @@ JavaScript server-side version. Part of OpenJS Foundation. Nodejs packet manager
 
 ### SQLite3
 
-	|Attribute	|Type				|Description
-	| --------------|-------------------------------|----------------------------------------------------------------|
-	|Name		|String with 50 chars limit	|Name of Pokémon
-	|ID		|Integer			|Pokémon number
-	|Type1		|String with 50 chars limit	|First type of Pokémon e.g. Electric
-	|Type2		|String with 50 chars limit	|Second type of Pokémon e.g. Grass
-	|Attack		|Integer			|	Pokémon attack
-	|Defense	|Integer			|	Pokémon defense
-	|Generation	|Integer			|	Pokémon generation
-	|HP		|Integer			|	Health point of Pokémon
-	|Legendary	|Boolean			|	If Pokémon is Legendary value is True else value is False
-	|Speed		|Integer			|	Pokémon speed attribute
-	|SpAttack	|Integer			|	Attack speed of Pokémon
-	|SpDefense	|Integer			|	Defense speed of Pokémon
-	|Total		|Integer			|	Total points
-	|modifiedAt	|String with 100 chars limit	|Describe when record was modified in format DD-MM-YYYY
-	|modifiedBy	|String with 100 chars limit	|Describe when record was modified in format DD-MM-YYYY
-	|createdAt	|String with 100 chars limit	|Describe when record was modified in format DD-MM-YYYY
-	|createdBy	|String with 100 chars limit	|Describe when record was modified in format DD-MM-YYYY
+|Attribute	|Type				|Description
+| --------------|-------------------------------|----------------------------------------------------------------|
+|Name		|String with 50 chars limit	|Name of Pokémon
+|ID		|Integer			|Pokémon number
+|Type1		|String with 50 chars limit	|First type of Pokémon e.g. Electric
+|Type2		|String with 50 chars limit	|Second type of Pokémon e.g. Grass
+|Attack		|Integer			|	Pokémon attack
+|Defense	|Integer			|	Pokémon defense
+|Generation	|Integer			|	Pokémon generation
+|HP		|Integer			|	Health point of Pokémon
+|Legendary	|Boolean			|	If Pokémon is Legendary value is True else value is False
+|Speed		|Integer			|	Pokémon speed attribute
+|SpAttack	|Integer			|	Attack speed of Pokémon
+|SpDefense	|Integer			|	Defense speed of Pokémon
+|Total		|Integer			|	Total points
+|modifiedAt	|String with 100 chars limit	|Describe when record was modified in format DD-MM-YYYY
+|modifiedBy	|String with 100 chars limit	|Describe when record was modified in format DD-MM-YYYY
+|createdAt	|String with 100 chars limit	|Describe when record was modified in format DD-MM-YYYY
+|createdBy	|String with 100 chars limit	|Describe when record was modified in format DD-MM-YYYY
 
 
 Every Pokemon is described by attributes from Table 1. To create a new Pokemon user need to describe pokemon by this attributes.   
