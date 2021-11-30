@@ -2,7 +2,8 @@
 
 ![Image](./images/pokemon.png)
 
-![](./images/yt.png)(https://www.youtube.com/watch?v=ferXnJM0GI8)
+![[](./images/yt.png)](https://www.youtube.com/watch?v=ferXnJM0GI8)
+
 ## Table of Contents
 
 * [Quick introduction](#quick-introduction)	
