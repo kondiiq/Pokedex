@@ -19,23 +19,23 @@
 Pokédex is a website designed to catalogue and provide information about the various species of Pokémon, what's more it will be able to generate a team for you that will suit all your needs!
 Scope
 
-	###Website application should allow users to check Pokémon statistics such as  attack, defense, types, speed.
-	###Main page should allow user to access all of its functionality.
-	###Will have the ability to generate a Team of Pokémon- 6 Pokémon’s that are varied by types.
-	###Create and delete your own Pokémon  with CRUD(Create, Read, Update, Delete) operation.
-	###Statistics are updated by PokémonApi.
-	###Application uses ERP system S/4 Hana as well as their technologies SAPUI5/OpenUI5 for User Interface  and Cloud Application Programming Model for server side (Back-end).
-	###App will examine up to 120’000 request every hour. Database can contain up to 50’000  users and it can handle   up to 10’000 users logged in, in one moment. 
-	###Pokédex will be hosted on a public cloud in the IaaS (Infrastructure as a Service) model using AWS (Amazon web service) or Microsoft Azure Cloud service 	infrastructure.
-	###App allow to choose few language version e.g. English, Arabic, Japanese, Chinese, Norwegian, German, French, Polish, Russian, Czech 
+	- Website application should allow users to check Pokémon statistics such as  attack, defense, types, speed.
+	- Main page should allow user to access all of its functionality.
+	- Will have the ability to generate a Team of Pokémon- 6 Pokémon’s that are varied by types.
+	- Create and delete your own Pokémon  with CRUD(Create, Read, Update, Delete) operation.
+	- Statistics are updated by PokémonApi.
+	- Application uses ERP system S/4 Hana as well as their technologies SAPUI5/OpenUI5 for User Interface  and Cloud Application Programming Model for server side (Back-end).
+	- App will examine up to 120’000 request every hour. Database can contain up to 50’000  users and it can handle   up to 10’000 users logged in, in one moment. 
+	- Pokédex will be hosted on a public cloud in the IaaS (Infrastructure as a Service) model using AWS (Amazon web service) or Microsoft Azure Cloud service 	infrastructure.
+	- App allow to choose few language version e.g. English, Arabic, Japanese, Chinese, Norwegian, German, French, Polish, Russian, Czech 
 
 ### App won’t allow to:
 
-	###Delete basic Pokémon’s
-	###Adding or changing theme
-	###Changing images of Pokémon’s
-	###Manipulating Pokémon’s statistics
-	###Modify database records 
+	- Delete basic Pokémon’s
+	- Adding or changing theme
+	- Changing images of Pokémon’s
+	- Manipulating Pokémon’s statistics
+	- Modify database records 
 
 ## Technologies
 
