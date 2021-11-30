@@ -55,12 +55,12 @@ Scope
 
 Belongs to the family of ERP systems, Hana is the newest SAP product. Released in 2015, it enables the use of the cloud and other operation of ERP systems such as planning and management human resources, processing large amounts of information etc. This solution is very future-oriented due to the date of withdrawal of support for older SAP systems in 2027. SAP provides its proprietary ultra-eficient database, which has proven itself in, among others, NBA, PKP, Harvard University etc.
 
-### SAPUI5/OpenUI5
+### ![](./images/sapui5.png) SAPUI5/OpenUI5
 
 This frameworks helps design UI (User - interface). SAPUI5 based on design pattern MVC (Model-View-Controller) model. SAPUI5 uses JavaScript in ES6 version, XML (Extensible Markup Language) and HTML (HyperText Markup Language). Important layer of this framework is API Reference with ready to use components as carousel, tables, triggers, buttons etc. 
  
 
-### SAP Fiori
+### ![](./images/fiori.png) SAP Fiori
 
 Modern framework uses in design UX (User Experience) part of application. It’s based in similar technologies likes SAPUI5 
 
@@ -68,14 +68,14 @@ Modern framework uses in design UX (User Experience) part of application. It’s
 ### ![](./images/js.png) JavaScript 
 JavaScript is a dynamic computer programming language. It is lightweight and most used as a part of web pages, whose implementations allow client-side script to interact with the user and make dynamic pages. It is an interpreted programming language with object-oriented capabilities.
 
-### XML
+### ![](./images/xml.png) XML
 An XML file is an extensible markup language file, and it is used to structure data for storage and transport. In an XML file, there are both tags and text.  XML is a markup language, which means it is a computer language that uses tags to describe components in a file.
 
-### HTML
+### ![](./images/html.png) HTML
 HyperText Markup Language (HTML) is the set of markup symbols or codes inserted into a file intended for display on the Internet. The markup tells web browsers how to display a web page's words and images.
 
 
-### Cloud Application Programming model (CAP)
+### ![](./images/cap.png) Cloud Application Programming model (CAP)
 
 Server side of application (Backend) framework helps create, management server and services. Frameworks helps create CDS (Core Data Storage), services e.g. Authentication service, creating HTTP/HTTPS/FTP requests and  connect from UI to Server by Backend part of web application.
 
@@ -84,7 +84,7 @@ Server side of application (Backend) framework helps create, management server a
 JavaScript server-side version. Part of OpenJS Foundation. Nodejs packet manager is the same like JavaScript (npm). Handle single thread operation and execution code on V8 engine builded for Google Chrome. Similar as SAPUI5 uses MVC, MVCM etc. patterns. 
 
 
-### SQLite3
+### ![](./images/sqlite3.png) SQLite3 
 
 |Attribute	|Type				|Description
 | --------------|-------------------------------|----------------------------------------------------------------|
