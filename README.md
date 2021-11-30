@@ -6,7 +6,7 @@
 
 * [Quick introduction](#quick-introduction)	
 * [Scope](#scope)	
-* [Our application will base on views such as](#Our-application-will-base-on-views-such-as)
+* [Pre-configuration](#Pre-configuration)
 * [Architecture](#architecture)
 * [Technologies](#technologies)	
 * [ERP SAP S/4 Hana](#ERP-SAP-S/4-Hana)	
@@ -38,7 +38,12 @@ Scope
 	- Changing images of Pokémon’s
 	- Manipulating Pokémon’s statistics
 	- Modify database records 
-
+	
+## Pre-configuration
+		
+	-npm install
+	-npm install sqlite3 - D
+	
 ## Technologies
 
  ### ERP SAP S/4 Hana
