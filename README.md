@@ -1,6 +1,8 @@
 # Pokédex - Your guide to the world of Pokémon
 
-![](./images/pokemon.png)
+![Image](./images/pokemon.png)
+
+[![](./images/yt.png)](https://www.youtube.com/watch?v=ferXnJM0GI8)
 
 ## Table of Contents
 
@@ -47,6 +49,7 @@ Scope
  $ npm install
  $ npm install sqlite3
  $ npm start
+ $ cds watch 
 ```
 
 ## Technologies
@@ -109,7 +112,7 @@ JavaScript server-side version. Part of OpenJS Foundation. Nodejs packet manager
 
 Every Pokemon is described by attributes from upper table To create a new Pokemon user need to describe pokemon by this attributes.   
 
-### I18n 
+### ![](./images/i18n.png) I18n 
 
 To create multi-language application SAP system using i18n standard (Internationalization). Standard allow to matching language in browser language and changing application language to browser language. If app can’t find right language, app set default language e.g. default language for Pokedex is English.
 
