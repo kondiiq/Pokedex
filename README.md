@@ -7,12 +7,12 @@
 * [Quick introduction](#quick-introduction)	
 * [Scope](#scope)	
 * [Setup](#setup)
-* [Architecture](#Architecture)
-* [Technologies](#Technologies)	
+* [Architecture](#architecture)
+* [Technologies](#technologies)	
 * [ERP SAP S/4 Hana](#ERP-SAP-S/4-Hana)	
 * [SAPUI5/OpenUI5](#SAPUI5/OpenUI5)	
-* [SAP Fiori](#Sap-Fiori)	
-* [Cloud Application Programming model](#cloud application programming model)	
+* [SAP Fiori](#sap-Fiori)	
+* [CAP](#cap)	
 * [I18n](#i18n)
 
 
