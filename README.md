@@ -1,5 +1,7 @@
 # Pokédex - Your guide to the world of Pokémon
 
+(./images/pokemon.png)
+
 ## Table of Contents
 
 * [Quick introduction](#quick-introduction)	
