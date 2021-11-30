@@ -47,7 +47,6 @@ Belongs to the family of ERP systems, Hana is the newest SAP product. Released i
 
 This frameworks helps design UI (User - interface). SAPUI5 based on design pattern MVC (Model-View-Controller) model. SAPUI5 uses JavaScript in ES6 version, XML (Extensible Markup Language) and HTML (HyperText Markup Language). Important layer of this framework is API Reference with ready to use components as carousel, tables, triggers, buttons etc. 
  
-Figure 5 SAPUI5 logo
 
 ### SAP Fiori
 
