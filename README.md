@@ -71,7 +71,7 @@ JavaScript is a dynamic computer programming language. It is lightweight and mos
 ### XML
 An XML file is an extensible markup language file, and it is used to structure data for storage and transport. In an XML file, there are both tags and text.  XML is a markup language, which means it is a computer language that uses tags to describe components in a file.
 
-### HTML
+### HTML ![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)
 HyperText Markup Language (HTML) is the set of markup symbols or codes inserted into a file intended for display on the Internet. The markup tells web browsers how to display a web page's words and images.
 
 
