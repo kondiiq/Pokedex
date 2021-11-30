@@ -6,7 +6,7 @@
 
 * [Quick introduction](#quick-introduction)	
 * [Scope](#scope)	
-* [Pre-configuration](#Pre-configuration)
+* [Setup](#setup)
 * [Architecture](#architecture)
 * [Technologies](#technologies)	
 * [ERP SAP S/4 Hana](#ERP-SAP-S/4-Hana)	
@@ -39,11 +39,11 @@ Scope
 	- Manipulating Pokémon’s statistics
 	- Modify database records 
 	
-## Pre-configuration
+## Setup
  To run this project, install it locally using npm:
 
 ```
- $ cd project/
+ $ cd Projects
  $ npm install
  $ npm install sqlite3
  $ npm start
