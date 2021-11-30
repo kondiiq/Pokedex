@@ -49,6 +49,7 @@ Scope
  $ npm install
  $ npm install sqlite3
  $ npm start
+ $ cds watch 
 ```
 
 ## Technologies
