@@ -16,6 +16,7 @@
 * [SAP Fiori](#sap-Fiori)	
 * [CAP](#cap)	
 * [I18n](#i18n)
+* [Stack documentation](#Stack-documentation)
 
 
 ## Quick introduction
@@ -120,4 +121,11 @@ To create multi-language application SAP system using i18n standard (Internation
 Standard recognize correct language in name of file. Every language without default language have unique code which describe country e.g.  pl -> Poland, ru -> Russian, de-> German etc. 
 Country codes can find at https://www.npmjs.com/package/i18n-iso-countries
 
+## Stack documentation
+ ####JavaScript	 			`https://developer.mozilla.org/en-US/docs/Web/JavaScript`
+ ####Node.js 				`https://nodejs.org/en/docs/`
+ ####SAPUI5 					`https://sapui5.hana.ondemand.com/sdk/#/topic`
+ ####Cloud Application programming model 	`https://cap.cloud.sap/docs/` 
+ ####SQLite3 				`https://www.sqlite.org/docs.html`
+ ####PokémonAPI				`https://documenter.getpostman.com/view/12403653/TVK8cLiK`
 
