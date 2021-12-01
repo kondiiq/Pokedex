@@ -122,7 +122,8 @@ Standard recognize correct language in name of file. Every language without defa
 Country codes can find at https://www.npmjs.com/package/i18n-iso-countries
 
 ## Stack documentation
-
+|		Technology              |                     	Link                                |
+|---------------------------------------|-----------------------------------------------------------|
 | JavaScript	 			|`https://developer.mozilla.org/en-US/docs/Web/JavaScript`  |
 | Node.js 				|`https://nodejs.org/en/docs/`                              |
 | SAPUI5 				|	`https://sapui5.hana.ondemand.com/sdk/#/topic`      |
